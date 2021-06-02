@@ -1,3 +1,3 @@
 FROM gitpod/workspace-full-vnc
 
-RUN sudo apt-get -y update && sudo apt-get -y install ghc ocaml cargo gcc opam && opam install dune
+RUN sudo apt-get -y update && sudo apt-get -y install ghc ocaml cargo gcc opam && opam init && opam install dune
