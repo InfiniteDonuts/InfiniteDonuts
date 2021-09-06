@@ -17,3 +17,5 @@ Star Wars, chess, gaming, making memes, reading/writing science fiction lore, 3d
 Discord ID: InfiniteDonuts#1435
 
 [YouTube](https://www.youtube.com/channel/UCLlfR0T-WsiUGSbRqprwPeA)
+
+[Twitter](https://twitter.com/InfiniteDonuts4)
